@@ -6,3 +6,4 @@ Simulates a Vending Machine\
  - The coins are returned if insufficient money was supplied or if the Product is sold out.
  - The Vending Machine does not give change if too much money was added.
  - Products can be restocked and money removed by an Operator.
+Written in Java
